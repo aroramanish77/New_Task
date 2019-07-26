@@ -1,8 +1,3 @@
 
-Paul Brueggemann
-=======
-# Our awesome README
-
-- text
-- **bold text**
+This is the brueggemann branch
 
